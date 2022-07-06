@@ -21,4 +21,4 @@ Have a nice day!
 
 ## Reach me @
 
-[<img  alt="Karem Ali | email" width="40px" display= "inline" src="https://ssl.gstatic.com/ui/v1/icons/mail/images/favicon5.ico" />](mailto:karemfaisal1@gmail.com) [<img  alt="Karem Ali | email" width="40px" display= "inline" src="https://static-exp1.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" />](https://www.linkedin.com/in/karem-ali-14a14910b/) [<img  alt="Karem Ali | Blog" width="40px" display= "inline" src="https://karemali.com/favicon.png" />](https://www.linkedin.com/in/karem-ali-14a14910b/)
+[<img  alt="Karem Ali | email" width="40px" display= "inline" src="https://ssl.gstatic.com/ui/v1/icons/mail/images/favicon5.ico" />](mailto:karemfaisal1@gmail.com) [<img  alt="Karem Ali | email" width="40px" display= "inline" src="https://static-exp1.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" />](https://www.linkedin.com/in/karem-ali-14a14910b/) [<img  alt="Karem Ali | Blog" width="40px" display= "inline" src="https://karemali.com/favicon.png" />](https://karemali.com)
