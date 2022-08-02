@@ -1,8 +1,8 @@
 # Welcome! 👋
 
-I am Karem Ali, an Experienced Purple Team Consultant with over 4 years of experience in DFIR, Offensive Operations, and Product(s) assessments. 
+I am Karem Ali, an experienced Purple Team consultant with over 4 years of experience in DFIR, Offensive Operations, and Product(s) assessments. 
 
-I love the hidden competition between the defenders and the threat actors, what make me always want to learn about their techniques and how we enhance out detection capabilities.
+I love the hidden competition between the defenders and the threat actors, what make me always want to learn about their techniques and how we enhance our detection capabilities.
 
 As Sun Tzu said once
 
